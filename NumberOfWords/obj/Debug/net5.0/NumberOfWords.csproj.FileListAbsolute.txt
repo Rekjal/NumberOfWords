@@ -1,0 +1,16 @@
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.csprojAssemblyReference.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.AssemblyInfoInputs.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.AssemblyInfo.cs
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.csproj.CoreCompileInputs.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.exe
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.deps.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.runtimeconfig.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.runtimeconfig.dev.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\ref\NumberOfWords.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\bin\Debug\net5.0\NumberOfWords.pdb
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\ref\NumberOfWords.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.pdb
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\NumberOfWords.Solution\NumberOfWords\obj\Debug\net5.0\NumberOfWords.genruntimeconfig.cache
